@@ -38,9 +38,6 @@ li{
    
     padding: 0;
 }
-
-
-
 .container{
     display: flex;
     width: 100%;
@@ -50,8 +47,6 @@ li{
     justify-content: left;
     align-items: top;
 }
-
-
 .container div:nth-of-type(1) {
     display: flex;
     width: 100%;
@@ -85,9 +80,7 @@ li{
     border-radius: 20px;
     background-color:  #343A46;
 }
-
-
-.focusBox1{
+/* .focusBox1{
     display: flex;
     flex-grow: 1;
     width: 100%;
@@ -96,7 +89,7 @@ li{
     align-items: top;
     border-radius: 20px;
     background-color:  #343A46;
-}
+} */
 .focusBox2{
     display: flex;
     flex-grow: 1;
@@ -104,7 +97,5 @@ li{
     height: 100%;
     align-items: top  important;
     justify-content: left;
-  
-   
 }
 .container div:nth-of-type(5) {flex-grow: 70;}
