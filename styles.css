@@ -35,8 +35,10 @@ li{
     font-size: 1em;
     margin-top: 8px;
     color: #FFFFFF;
-   
     padding: 0;
+}
+i{
+    margin-left: 1.5rem;
 }
 .container{
     display: flex;
@@ -53,6 +55,7 @@ li{
     flex-grow: 3;
     justify-content: left;
     align-items: top;
+    ;
     color:#149ECA ;
     
 }

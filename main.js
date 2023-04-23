@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <div>LEARN REACT </div>
+        <div>LEARN REACT &nbsp; <i class="fa-solid fa-angle-right "></i></div>
         <div>
           <h1>Quick Start</h1>
         </div>
